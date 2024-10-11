@@ -30,4 +30,4 @@ Here are some of my recent and most impactful projects:
 - **Advanced NLP**: Exploring large language models for advanced question-answering systems.
 
 ## 📫 Let's Connect
-- [LinkedIn](www.linkedin.com/in/lakshmisrinivasedara)
+- [LinkedIn](https://www.linkedin.com/in/lakshmisrinivasedara)
