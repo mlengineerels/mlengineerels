@@ -13,15 +13,14 @@ I'm a Machine Learning Engineer with a passion for AI, Natural Language Processi
 ## 📈 Projects
 Here are some of my recent and most impactful projects:
 
-### Scholar Recommendation Pipeline
+### Scholar Recommendation Pipeline - IEEE TKDE
 - Designed to enhance link prediction accuracy by 10% using Graph Neural Networks and Recurrent Neural Networks. This system supports data-driven decision-making for academic collaborations.
 - **Technologies**: PyTorch, Graph Neural Networks, Knowledge Graphs.
 
-### Influence Role Recognition and Scholar Recommendation in Academic Social Networks
+### Influence Role Recognition and Scholar Recommendation in Academic Social Networks - Accepted & Published in IEEE DSAA
 - "ScholarInfluencer," a recommendation system for identifying scholar influencers within interdisciplinary teams in Academic Social Networks (ASN).
 - The system combines a classification model with network analysis on a heterogeneous knowledge graph and leverages a large language model (LLM) to recommend scholars and publications.
 - Evaluated on datasets like NSF, DBLP, Cora, and CA-HepTh, ScholarInfluencer shows a 13.6% improvement in influence role recognition on the NSF data and a 7% boost in recommendation performance when role recognition is included.
-
 
 ### RAG-QA-System: Retrieval-Augmented Generation for Question Answering
 - A question-answering system that combines retrieval and generation models to deliver accurate answers based on a knowledge base. Built with PyTorch, sentence-transformers, and BART, deployed with Docker.
