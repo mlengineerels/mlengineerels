@@ -15,7 +15,7 @@ Here are some of my recent and most impactful projects:
 
 ### Scholar Recommendation Pipeline
 - Designed to enhance link prediction accuracy by 10% using Graph Neural Networks and Recurrent Neural Networks. This system supports data-driven decision-making for academic collaborations.
-- **Technologies**: PyTorch, Graph Neural Networks, Knowledge Graphs, MLflow.
+- **Technologies**: PyTorch, Graph Neural Networks, Knowledge Graphs.
 
 ### Influence Role Recognition and Scholar Recommendation in Academic Social Networks
 - "ScholarInfluencer," a recommendation system for identifying scholar influencers within interdisciplinary teams in Academic Social Networks (ASN).
@@ -29,7 +29,7 @@ Here are some of my recent and most impactful projects:
 
 ### Real-Time Sentiment Analysis
 - Analyzes live social media data to track public sentiment on key issues. Implemented using Transformer-based models and deployed on AWS with Flask for API access.
-- **Technologies**: Transformers, Flask, Docker, AWS Lambda.
+- **Technologies**: Transformers, Flask, Docker.
 
 ## 🌱 What I'm Learning
 - **MLOps**: Enhancing my skills in model deployment and lifecycle management.
