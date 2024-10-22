@@ -26,9 +26,6 @@ Here are some of my recent and most impactful projects:
 - A question-answering system that combines retrieval and generation models to deliver accurate answers based on a knowledge base. Built with PyTorch, sentence-transformers, and BART, deployed with Docker.
 - **Technologies**: GNN, RNN, Knowledge Graph Reasoning, MLOps.
 
-### Real-Time Sentiment Analysis
-- Analyzes live social media data to track public sentiment on key issues. Implemented using Transformer-based models and deployed on AWS with Flask for API access.
-- **Technologies**: Transformers, Flask, Docker.
 
 ## 🌱 What I'm Learning
 - **MLOps**: Enhancing my skills in model deployment and lifecycle management.
