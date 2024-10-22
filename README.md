@@ -26,6 +26,10 @@ Here are some of my recent and most impactful projects:
 - A question-answering system that combines retrieval and generation models to deliver accurate answers based on a knowledge base. Built with PyTorch, sentence-transformers, and BART, deployed with Docker.
 - **Technologies**: GNN, RNN, Knowledge Graph Reasoning, MLOps.
 
+### MultiModality
+- Develop and maintain large-scale, multimodal datasets for training and evaluating models
+- Optimize models for data preprocessing tasks
+- Create and run evaluations and benchmark analyses for datasets and models
 
 ## 🌱 What I'm Learning
 - **MLOps**: Enhancing my skills in model deployment and lifecycle management.
