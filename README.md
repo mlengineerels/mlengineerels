@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm a Machine Learning Engineer with a passion for AI, Natural Language Processing, and MLOps. I specialize in building data-driven solutions that leverage knowledge graphs, large language models, and scalable architectures to solve complex problems. Currently, I'm a Research Assistant at Ceri Lab, University of Missouri, Columbia.
+I'm a Machine Learning Engineer with a passion for AI, Natural Language Processing, and MLOps. I specialize in building data-driven solutions that leverage knowledge graphs, large language models, and scalable architectures to solve complex problems. Currently, I'm a Research Assistant at Ceri Lab, University of Missouri, Columbia and as a SoftWare Engineer - Machine Learning at Spectrum.
 
 ## 🚀 Skills
 - **Machine Learning**: Natural Language Processing, Graph Neural Networks, Recommender Systems
