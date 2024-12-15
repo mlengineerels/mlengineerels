@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm a Machine Learning Engineer with a passion for AI, Natural Language Processing, and MLOps. I specialize in building data-driven solutions that leverage knowledge graphs, large language models, and scalable architectures to solve complex problems. Currently, I'm a Research Assistant at Ceri Lab, University of Missouri, Columbia and as a SoftWare Engineer - Machine Learning at Spectrum.
+I'm a Machine Learning Engineer passionate about AI, Natural Language Processing, and MLOps. I specialize in building data-driven solutions that leverage knowledge graphs, large language models, and scalable architectures to solve complex problems. Currently, I'm a Research Assistant at Ceri Lab, University of Missouri, Columbia, and a SoftWare Engineer—machine Learning at Spectrum.
 
 ## 🚀 Skills
 - **Machine Learning**: Natural Language Processing, Graph Neural Networks, Recommender Systems
@@ -18,7 +18,7 @@ Here are some of my recent and most impactful projects:
 - **Technologies**: PyTorch, Graph Neural Networks, Knowledge Graphs.
 
 ### Influence Role Recognition and Scholar Recommendation in Academic Social Networks - Published in IEEE - 10.1109/DSAA61799.2024.10722780
-- "ScholarInfluencer," a recommendation system for identifying scholar influencers within interdisciplinary teams in Academic Social Networks (ASN).
+- "ScholarInfluencer," a recommendation system for identifying scholar influencers within interdisciplinary Academic Social Networks (ASN) teams.
 - The system combines a classification model with network analysis on a heterogeneous knowledge graph and leverages a large language model (LLM) to recommend scholars and publications.
 - Evaluated on datasets like NSF, DBLP, Cora, and CA-HepTh, ScholarInfluencer shows a 13.6% improvement in influence role recognition on the NSF data and a 7% boost in recommendation performance when role recognition is included.
 
