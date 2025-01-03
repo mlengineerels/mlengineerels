@@ -21,6 +21,7 @@ Here are some of my recent and most impactful projects:
 - "ScholarInfluencer," a recommendation system for identifying scholar influencers within interdisciplinary Academic Social Networks (ASN) teams.
 - The system combines a classification model with network analysis on a heterogeneous knowledge graph and leverages a large language model (LLM) to recommend scholars and publications.
 - Evaluated on datasets like NSF, DBLP, Cora, and CA-HepTh, ScholarInfluencer shows a 13.6% improvement in influence role recognition on the NSF data and a 7% boost in recommendation performance when role recognition is included.
+### Securing Inverter-based Resources via Knowledge-driven Threat Modeling, Analysis, and Mitigation IEEE - NOMS
 
 ### RAG-QA-System: Retrieval-Augmented Generation for Question Answering
 - A question-answering system that combines retrieval and generation models to deliver accurate answers based on a knowledge base. Built with PyTorch, sentence-transformers, and BART, deployed with Docker.
