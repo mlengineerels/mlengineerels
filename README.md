@@ -13,7 +13,8 @@ I'm a **Machine Learning Engineer** passionate about **Artificial Intelligence**
 
 ---
 
-## 📈 Projects
+## 📈  HighLights
+
 Here are some of my recent and impactful projects:
 
 ### Scholar Recommendation Pipeline - IEEE TKDE
