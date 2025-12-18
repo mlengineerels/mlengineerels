@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a **Machine Learning Engineer** passionate about **Artificial Intelligence**, **Natural Language Processing**, and **MLOps**. I specialize in crafting data-driven solutions that utilize **Knowledge Graphs**, **Large Language Models (LLMs)**, and **Scalable Architectures** to solve complex problems. Currently, I’m a **Research Assistant** at **Ceri Lab, University of Missouri, Columbia**, and a **Software Engineer - Machine Learning** at **Spectrum**.
+I'm a **Machine Learning Engineer** passionate about **Artificial Intelligence**, **Natural Language Processing**, and **MLOps**. I specialize in crafting data-driven solutions that utilize **Knowledge Graphs**, **Large Language Models (LLMs)**, and **Scalable Architectures** to solve complex problems. Currently, I’m a **Research Assistant** at **Ceri Lab, University of Missouri, Columbia**, and a **Software Engineer ** at **Spectrum**.
 
 ---
 
